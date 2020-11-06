@@ -21,7 +21,7 @@
 #include "midgard/logging.h"
 #include "midgard/pointll.h"
 #include "mjolnir/util.h"
-#include "src/sif/osrm_car_duration.h"
+#include "sif/osrm_car_duration.h"
 
 using namespace valhalla::midgard;
 using namespace valhalla::baldr;
